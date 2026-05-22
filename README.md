@@ -50,7 +50,7 @@
 ## Usage
 
 ### Setup
-Quick initialize with minimum requirements: PredictiofyinformationFlagshipccSupport  
+Quick initialize with minimum requirements: 
 ```Swift
 let url = URL(string: "ws://192.168.88.252:8081/socket")!
   
