@@ -50,10 +50,10 @@
 ## Usage
 
 ### Setup
-Quick initialize with minimum requirements:
+Quick initialize with minimum requirements: PredictiofyinformationFlagshipccSupport  
 ```Swift
 let url = URL(string: "ws://192.168.88.252:8081/socket")!
-PredictiofyinformationFlagshipccSupport    
+  
 self.swiftStomp = SwiftStomp(host: url) //< Create instance
 self.swiftStomp.delegate = self //< Set delegate
 self.swiftStomp.autoReconnect = true //< Auto reconnect on error or cancel
